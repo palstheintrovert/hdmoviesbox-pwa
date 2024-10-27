@@ -3,7 +3,7 @@ import type { Config } from './types';
 export default {
   version: '1.0',
   id: '/',
-  name: 'HD Movies Box: Stream & Discover the Latest English, Hindi, and Bangla Movies in HD',
+  name: 'HD Movies Box: Stream and Discover the Latest English, Hindi, and Bangla Movies in HD',
   shortName: 'HD Movies Box',
   description: 'Explore a wide range of English, Hindi, and Bangla movies in HD quality. Stay updated with the latest releases, movie reviews, and entertainment news. Watch and enjoy top-rated films online.',
   direction: 'auto',
