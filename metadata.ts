@@ -1,5 +1,5 @@
 /**
- * This is auto generated metadata file, generated at: Sun Oct 27 2024 14:23:31 GMT+0000 (Coordinated Universal Time)
+ * This is auto generated metadata file, generated at: Sun Oct 27 2024 14:41:32 GMT+0000 (Coordinated Universal Time)
  * Prevent making any changes here
  */
 
@@ -27,5 +27,5 @@ export interface Metadata {
 }
 
 export const metadata = JSON.parse(
-  '{"github":{"repository":"palstheintrovert/hdmoviesbox-pwa","branch":"main"},"pwa":{"oneSignalEnabled":false,"oneSignalSDK":"https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js","oneSignalConfig":{"appId":"********-****-****-****-************","allowLocalhostAsSecureOrigin":true},"logs":true,"serviceWorker":{"source":"/app/serviceworker.js","scope":"/"}},"build":{"hash":"i7Hy7JA7GqVXB-iaZfY8U"}}',
+  '{"github":{"repository":"palstheintrovert/hdmoviesbox-pwa","branch":"main"},"pwa":{"oneSignalEnabled":false,"oneSignalSDK":"https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js","oneSignalConfig":{"appId":"********-****-****-****-************","allowLocalhostAsSecureOrigin":true},"logs":true,"serviceWorker":{"source":"/app/serviceworker.js","scope":"/"}},"build":{"hash":"g4_Ogw4BApD5qIi9YhGp9"}}',
 ) as Metadata;
